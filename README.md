@@ -1,7 +1,7 @@
 # Explorando Técnicas de POO com Python
 Aplicando Técnicas de Programação Orientada a Objetos em Python
 
-Este repositório contém dois projetos que demonstram o uso de conceitos de Programação Orientada a Objetos (POO) para resolver problemas específicos. O nível de dificuldade dos projetos é intermediário, conforme a plataforma Digital Innovation One.
+Este repositório contém dois projetos que demonstram o uso de conceitos de Programação Orientada a Objetos (POO) para resolver problemas específicos.
 
 ## Projetos
 
